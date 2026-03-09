@@ -94,6 +94,20 @@ The seed data contains **56 intentional defects** distributed across all four ta
 | QC-C4 | Encounters with NULL provider | Provider attribution required for prescribing authority and malpractice tracking |
 | QC-C5 | Diagnoses with NULL/empty description | ICD-10 code alone is insufficient for clinical context |
 
+<img width="840" height="762" alt="image" src="https://github.com/user-attachments/assets/683f4f27-a603-4d06-b51e-087d0fa1f186" />
+
+<img width="725" height="405" alt="image" src="https://github.com/user-attachments/assets/41759f72-be08-4165-a538-0d7098779975" />
+
+<img width="712" height="350" alt="image" src="https://github.com/user-attachments/assets/d6ed5051-2df8-4478-8a28-36bad1abc5a5" />
+
+<img width="670" height="360" alt="image" src="https://github.com/user-attachments/assets/a778c28a-3a7c-47aa-bcb5-9556dd1baaf0" />
+
+<img width="694" height="339" alt="image" src="https://github.com/user-attachments/assets/f7640967-6fe5-47a8-aecc-8747dc821a36" />
+
+
+
+
+
 ### Category 2: Validity Checks
 
 | Check | Purpose | Neurology Context |
